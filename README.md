@@ -1,4 +1,4 @@
-# FIT5225-AS2
+# Server less website arhitecture using AWS
 
 s3_image_upload_db contains 3.2 where the lambda function is triggered on uploading image to s3
 image-upload.py contains the 3.3 2nd query (POST method)where when uploaded an image we will get the images which have same tags
